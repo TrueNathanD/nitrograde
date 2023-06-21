@@ -8,8 +8,15 @@
 <p align="center">- Nathan D Strzelczyk</p>
 
 <p align="center">
-  <img src="" alt="">
+  <img src="img/picture-nitrograde-title-screen.png" alt="">
   <br>
-  <sub>Picture: X</sub>
+  <sub>NitroGrade Title Screen</sub>
+</p>
+<br>
+<br>
+<p align="center">
+  <img src="img/picture-nitrograde-choice-reference.bmp" alt="">
+  <br>
+  <sub>Choice Reference Picture</sub>
 </p>
 
