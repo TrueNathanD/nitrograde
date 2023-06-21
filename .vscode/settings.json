@@ -1,3 +1,6 @@
 {
-    "workbench.colorCustomizations": {}
+    "workbench.colorCustomizations": {},
+    "notebook.output.wordWrap": true,
+    "notebook.output.textLineLimit": 30,
+    "notebook.output.scrolling": true
 }
